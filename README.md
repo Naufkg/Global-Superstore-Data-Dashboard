@@ -1,5 +1,11 @@
 # Global-Superstore-Data-Dashboard
 
+## Video 
+
+Check out this video on how dashboard is created in power BI and what all information we can draw from each visuals created in the dashboard.
+[Watch the Video]()
+
+
 ### Introduction
 In this project I will describe the analysis process I conducted using a Global Superstore’s dataset. The software I used is Power BI. 
 1.Power BI dashboards can be a helpfull tool to provide insights into sales performance and trends of an organization.
