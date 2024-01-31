@@ -18,7 +18,7 @@ In this dataset there is a facts table - Orders and two dimension table- People 
 1.Build a Sales Analysis, Product Analysis and Shipping Analysis Dashboard.
 
 ### Data:
-Datasource: [Global Superstore Dataset]("C:\Users\naufg\Desktop\python\Power BI\Global Superstore.xlsx")
+Datasource: [Global Superstore Dataset](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)
 
 ### Dashboard:
 [Global Superstore Dashboard]("C:\Users\naufg\Desktop\python\Power BI\Global Superstore Data Analysis.pbix")
