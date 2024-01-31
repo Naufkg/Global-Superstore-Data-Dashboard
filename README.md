@@ -21,7 +21,7 @@ In this dataset there is a facts table - Orders and two dimension table- People 
 Datasource: [Global Superstore Dataset](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)
 
 ### Dashboard:
-[Global Superstore Dashboard]("C:\Users\naufg\Desktop\python\Power BI\Global Superstore Data Analysis.pbix")
+[Global Superstore Dashboard](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)
 
 
 ### Sales Analysis Dashboard:
