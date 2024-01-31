@@ -18,10 +18,10 @@ In this dataset there is a facts table - Orders and two dimension table- People 
 1.Build a Sales Analysis, Product Analysis and Shipping Analysis Dashboard.
 
 ### Data:
-Datasource: [Global Superstore Dataset](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)
+Datasource: [Global Superstore Dataset](https://docs.google.com/spreadsheets/d/1YgbIyu64VAlOP9fM0ysYWZoAHdjCyuuO/edit?usp=drive_link&ouid=108082816022698844739&rtpof=true&sd=true)
 
 ### Dashboard:
-[Global Superstore Dashboard](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)
+[Global Superstore Dashboard]https://drive.google.com/file/d/1Por24v41EeX2KgSUsMLCMDNA6yc1EdJn/view?usp=drive_link)
 
 
 ### Sales Analysis Dashboard:
