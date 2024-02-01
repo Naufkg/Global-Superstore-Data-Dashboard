@@ -3,7 +3,7 @@
 ## Video 
 
 Check out this video on how dashboard is created in power BI and what all information we can draw from each visuals created in the dashboard.
-[Watch the Video]()
+[Watch the Video](https://drive.google.com/file/d/1o2WCnvPWcWrPWbWgmLijhX5RXIcAQY53/view?usp=drive_link)
 
 
 ### Introduction
@@ -49,7 +49,7 @@ Datasource: [Global Superstore Dataset](https://docs.google.com/spreadsheets/d/1
 
 2.Highest amount of office supplies have been ordered in terms of quantity.
 
-3.Tables have been sold at an average discount of 28% in 2014.
+3.Tables have been sold at an average discount of 29% in 2014.
 
 
 ### Shipping Analysis Dashboard:
